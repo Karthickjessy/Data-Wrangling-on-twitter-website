@@ -9,8 +9,9 @@ WeRateDogs downloaded their Twitter archive and sent it to Udacity via email exc
 
 ## Project Details
 Data wrangling, which consists of:
-
-Gathering data
-Assessing data
-Cleaning data
-Storing, analyzing, and visualizing your wrangled data
+<ol>
+  <li>Gathering data</li>
+  <li>Assessing data</li>
+  <li>Cleaning data</li>
+  <li>Storing, analyzing, and visualizing your wrangled data</li>
+</ol>
